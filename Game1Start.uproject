@@ -14,8 +14,6 @@
 		{
 			"Name": "WaveformEditor",
 			"Enabled": true
-<<<<<<< Updated upstream
-=======
 		},
 		{
 			"Name": "HDRIBackdrop",
@@ -28,7 +26,6 @@
 		{
 			"Name": "NiagaraFluids",
 			"Enabled": true
->>>>>>> Stashed changes
 		}
 	]
 }
